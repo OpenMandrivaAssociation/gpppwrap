@@ -1,6 +1,6 @@
 %define name gpppwrap
 %define version 1.1
-%define rel 2mdk
+%define rel  %mkrel 
 
 
 Summary: A graphical user interface arround the ppp-on/off scripts
