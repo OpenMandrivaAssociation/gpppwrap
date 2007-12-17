@@ -16,7 +16,6 @@ Patch:  gpppwrap-1.0-sysconfdir.patch.bz2
 Patch1: gpppwrap-dnrd.lfs.patch.bz2
 Patch2: dnrd-2.10-makefile.patch.bz2 
 Prereq: rpm-helper
-Buildroot: %{_tmppath}/%{name}-%{version}-buildroot
 BuildRequires: libgtk+-devel
 
 %description
