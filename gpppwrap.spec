@@ -1,7 +1,7 @@
 %define name gpppwrap
 %define version 1.1
 %define rel  %mkrel 
-
+1
 
 Summary: A graphical user interface arround the ppp-on/off scripts
 Name: %{name}
