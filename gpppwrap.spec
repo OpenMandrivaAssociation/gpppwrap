@@ -10,7 +10,7 @@ Release: %{rel}
 License: GPL
 Group: System/Configuration/Networking
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
-URL: http://www.toppoint.de/~utuxfan/g/index.html#gpppwrap
+URL: https://www.toppoint.de/~utuxfan/g/index.html#gpppwrap
 Source: http://www.toppoint.de/~utuxfan/g/%name-%version.tar.bz2
 Source1:  dnrd-2.10.tar.bz2
 Patch:  gpppwrap-1.0-sysconfdir.patch.bz2
